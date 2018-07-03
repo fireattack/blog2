@@ -1,5 +1,7 @@
 B站办BML的俩通告，暴露了一些真名——大部分都是公开信息了，比较有意义的是fhána主唱的名字，这里记录下。
 
+测试链接 https://github.com/fireattack/blog2/edit/master/index.md
+
 1. [通告1](http://wsbs.wgj.sh.gov.cn/shwgj_zwdt/core/web/welcome/index!getDocumentinfobyId.action?id=402885dd63d36f7d0163eca9a8a8090e) ([web.archive.org备份](https://web.archive.org/web/20180618212607/http://wsbs.wgj.sh.gov.cn/shwgj_zwdt/core/web/welcome/index!getDocumentinfobyId.action?id=402885dd63d36f7d0163eca9a8a8090e))
 
 1. [通告2](http://wsbs.wgj.sh.gov.cn/shwgj_zwdt/core/web/welcome/index!getDocumentinfobyId.action?id=402885dd63d36f7d0163eca9a8c7090f) ([web.archive.org备份](https://web.archive.org/web/20180618212603/http://wsbs.wgj.sh.gov.cn/shwgj_zwdt/core/web/welcome/index!getDocumentinfobyId.action?id=402885dd63d36f7d0163eca9a8c7090f))
